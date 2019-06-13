@@ -1,0 +1,13 @@
+Since the answers are yes or no;
+we would have to  put into consideration that people are likely to make mistakes
+such as ye,y,ys,n,non.
+therefore these would be considered as noise but we hv to develop
+our system to be able to take up all the possibilities as answers.
+these would be
+yes-yes
+no-no
+n-no
+y-yes
+non-no
+ye-yes
+ys-yses
